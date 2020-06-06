@@ -13,7 +13,7 @@ public class NewTourManager : MonoBehaviour
 
 	public void EnterLivingRoom()
 	{
-		cam.transform.position = new Vector3(0, 0, 0);
+		cam.transform.position = new Vector3(-18, 0, 0);
 		liv.GetComponent<VideoPlayer>().enabled = true;
 		cant.GetComponent<VideoPlayer>().enabled = false;
 		cube.GetComponent<VideoPlayer>().enabled = false;
@@ -21,7 +21,7 @@ public class NewTourManager : MonoBehaviour
 	}
 	public void EnterCantina()
 	{
-		cam.transform.position = new Vector3(100, 0, 0);
+		cam.transform.position = new Vector3(81, 0, 0);
 		liv.GetComponent<VideoPlayer>().enabled = false;
 		cant.GetComponent<VideoPlayer>().enabled = true;
 		cube.GetComponent<VideoPlayer>().enabled = false;
@@ -30,7 +30,7 @@ public class NewTourManager : MonoBehaviour
 
 	public void EnterCube()
 	{
-		cam.transform.position = new Vector3(0, 0, 100);
+		cam.transform.position = new Vector3(-18, 0, 90);
 		liv.GetComponent<VideoPlayer>().enabled = false;
 		cant.GetComponent<VideoPlayer>().enabled = false;
 		cube.GetComponent<VideoPlayer>().enabled = true;
@@ -39,7 +39,7 @@ public class NewTourManager : MonoBehaviour
 
 	public void EnterMez()
 	{
-		cam.transform.position = new Vector3(100, 0, 100);
+		cam.transform.position = new Vector3(81, 0, 90);
 		liv.GetComponent<VideoPlayer>().enabled = false;
 		cant.GetComponent<VideoPlayer>().enabled = false;
 		cube.GetComponent<VideoPlayer>().enabled = false;
