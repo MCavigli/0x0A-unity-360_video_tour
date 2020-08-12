@@ -2,7 +2,7 @@
 
 Welcome! This 360 degree video is a virtual tour of the Holberton San Francisco campus.
 
-![](https://imgur.com/bvYmNgy)
+![](https://imgur.com/bvYmNgy.png)
 
 This 360 video is meant to be experienced with an **Oculus Quest**. Please load the APK file found in the **Builds directory** onto your Quest. For information on how to do this please check out [this website](https://uploadvr.com/sideloading-quest-how-to/).
 
