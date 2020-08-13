@@ -24,3 +24,9 @@ This virtual tour was made with Unity. I mapped the 360 video from each room on 
 ![](https://i.imgur.com/eYdtF4T.png)
 
 Music used in project: [Tech Live by Kevin MacLeod](https://incompetech.filmmusic.io/song/4463-tech-live/)
+
+### Final thoughts
+
+This was my first foray into developing for virtual reality. It was a difficult experience but nice to see an actual project come together in the end. Getting the 360 video to map on the inside of the spheres was my biggest challenge.
+
+I think there could be a better way to build this project rather than moving the camera to the "sort of" center of each sphere. I may come back to this project later when I have time and make it more efficient.
