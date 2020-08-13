@@ -10,7 +10,9 @@ This 360 video is meant to be experienced with an **Oculus Quest**. Please load 
 
 Once it's playing, you can tour the SF Holberton campus and interact with the virtual buttons by looking directly at them and pressing the A button on the right controller. A circular indicator will appear when you are looking directly at a button that you are able to interact with.
 
-![](https://i.imgur.com/5E9fjoJ.png?1): Button to travel between rooms.
+![](https://i.imgur.com/Z3SlyQX.png): Button to travel between rooms.
+
+![](https://i.imgur.com/5E9fjoJ.png?1): Button to view more information.
 
 ## Some info
 
