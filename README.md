@@ -10,6 +10,8 @@ This 360 video is meant to be experienced with an **Oculus Quest**. Please load 
 
 Once it's playing, you can tour the SF Holberton campus and interact with the virtual buttons by looking directly at them and pressing the A button on the right controller. A circular indicator will appear when you are looking directly at a button that you are able to interact with.
 
+![](https://ibb.co/JcPbDwj.png): Button to travel between rooms.
+
 ## Some info
 
 This virtual tour was made with Unity. I mapped the 360 video from each room on the inside of a sphere GameObject. When you move to a different room it deactivates the video of the room you leave and activates the video for the room you're going to.
